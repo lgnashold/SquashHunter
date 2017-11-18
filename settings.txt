@@ -1,0 +1,10 @@
+To edit the images, simply type the relative final path in place of the one listed.
+I suggest putting them into the "res" folder, and then updating the file name.
+The colors are hexadecimal, to update them simply google "color picker" and copy the number listed.
+Be careful that you don't accidentally copy a hashtag (e.g. pasting #ff00ff instead of ff00ff)
+Obstacle Image: ./res/flame.png
+Player Image: ./res/player.png
+Squash Image: ./res/squash.png
+Background Color:00c5e8
+Ground Color: 007717
+Text Color: 00030c
